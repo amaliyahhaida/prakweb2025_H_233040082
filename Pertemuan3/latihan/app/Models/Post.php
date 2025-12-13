@@ -10,7 +10,6 @@ use Illuminate\Support\Str;
  */
 class PostFactory extends Factory
 {
-    
     /**
      * Define the model's default state.
      *
